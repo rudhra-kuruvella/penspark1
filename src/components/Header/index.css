@@ -1,0 +1,113 @@
+.my-form {
+    border-radius: 70px;
+    font-size: .875rem;
+    line-height: 1.25rem;
+    padding-left: 1rem;
+    padding: 13px;
+    width: 292px;
+}
+
+.my-nav {
+    padding: 30px;
+}
+
+.my-nav-item:hover {
+    background-color: #f3f4f6;
+    border-radius: 20px;
+}
+
+
+.nav-item.active {
+    background-color: #f3f4f6;
+    border-radius: 20px;
+}
+
+.my-nav-item:active {
+    background-color: #f3f4f6;
+    border-radius: 20px;
+}
+
+.my-nav-item {
+    font-size: 1rem;
+    line-height: 1.5rem;
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+    font-weight: 500;
+    margin-left: 10px;
+}
+
+.my-btn {
+    border-radius: 70px;
+    background-color: #4f46e5;
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 1.5rem;
+    padding-left: 19px;
+    padding-right: 21px;
+    padding-top: 8px;
+    padding-bottom: 10px;
+
+}
+
+.pl-40 {
+    padding-left: 80px;
+}
+
+.nav li {
+    font-size: 1rem;
+}
+
+.navbar-brand {
+    padding: 19px;
+}
+
+.dropdown:hover .my-dropdown {
+    display: block;
+}
+
+.my-dropdown {
+    border-radius: 10px;
+    margin-top: 10px;
+    width:500px;
+    padding: 15px;
+        /* border: 5px; */
+}
+.form-control:focus {
+    border-color: black;
+    box-shadow: grey;   
+  }
+  .dropdown-menu.columns-3 {
+	min-width: 600px;
+}
+.multi-column-dropdown {
+	list-style: none;
+  margin: 0px;
+  padding: 0px;
+}
+.multi-column-dropdown li a {
+	display: block;
+	clear: both;
+	line-height: 1.428571429;
+	color: #333;
+	white-space: normal;
+}
+.separate-button{
+    padding-left: 10px;
+}
+.my-avatar{
+border-radius: 10px;
+padding: 15px;
+width: 250px;
+
+}
+.my-h4{
+    font-weight: 600;
+    font-size: 19px;
+}
+.my-bell:hover{
+    border-radius: 50%;
+    background-color: #f3f4f6;
+}
+.profile-list:hover{
+background-color: #f3f4f6;
+}
